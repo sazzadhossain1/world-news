@@ -12,4 +12,4 @@ function App() {
 
 export default App;
 
-// 60 number module er 4 number ta ses 5 number ta start
+// 60 number module er 8 number ta ses 9 number ta start
