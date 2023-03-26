@@ -3,7 +3,7 @@ import React from "react";
 const Catagory = () => {
   return (
     <div>
-      <h2>This is catagory</h2>
+      <h2>This is All Categories</h2>
     </div>
   );
 };
